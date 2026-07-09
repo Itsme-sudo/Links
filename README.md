@@ -2,7 +2,7 @@
 
 A beautiful, interactive links page similar to Linktree. Built with pure HTML, CSS, and JavaScript.
 
-![Demo](images/demo.png)
+![Demo](images/demo.jpg)
 
 ## 🚀 Live Demo
 
